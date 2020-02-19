@@ -13,6 +13,7 @@
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
 
 ## Data Structures
+*MUST https://www.coursera.org/learn/algorithms-part1/home/welcome
 - ### Linked List Basics
     - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
     - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
