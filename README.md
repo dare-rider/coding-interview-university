@@ -61,7 +61,7 @@
         - [Absolute Integer](https://bits.stephan-brumme.com/absInteger.html)
 
 - ### Trees
-    - [ ] *MUST[All series](https://www.youtube.com/watch?v=ZM-sV9zQPEs&list=PLrmLmBdmIlpv_jNDXtJGYTPNQ2L1gdHxu&index=1)
+    - [ ] *MUST [All series](https://www.youtube.com/watch?v=ZM-sV9zQPEs&list=PLrmLmBdmIlpv_jNDXtJGYTPNQ2L1gdHxu&index=1)
     - [ ] [BFS(breadth-first search) and DFS(depth-first search) (video)](https://www.youtube.com/watch?v=uWL6FJhq5fM)
         - BFS notes:
            - level order (BFS, using queue)
