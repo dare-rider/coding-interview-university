@@ -115,8 +115,8 @@
         - [ ] heap_sort() - take an unsorted array and turn it into a sorted array in-place using a max heap
             - note: using a min heap instead would save operations, but double the space needed (cannot do in-place).
 ## Courses
-   *MUST https://www.coursera.org/learn/algorithms-part1 (Free)
-   *MUST https://www.coursera.org/learn/algorithms-part2 (Free)
+   - *MUST https://www.coursera.org/learn/algorithms-part1 (Free) 
+   - *MUST https://www.coursera.org/learn/algorithms-part2 (Free)
     
 ## Sorting
 - [ ] Notes:
@@ -285,6 +285,7 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [Tushar Roy - Regex matching](https://www.youtube.com/watch?v=l3hda49XcDE)
         - Note the `*` char difference in above 2 implementations.
     - Rabin-Karp (videos):
+        - Application - Multiple pattern search in a string, file comparision
         - [Tushar Roy - Rabin-Karp](https://www.youtube.com/watch?v=H4VrKHVG5qI)
     - Knuth-Morris-Pratt (KMP):
         - [TThe Knuth-Morris-Pratt (KMP) String Matching Algorithm](https://www.youtube.com/watch?v=5i7oKodCRJo)
