@@ -23,7 +23,6 @@
         - [ ] [Tail Recursion (video)](https://www.youtube.com/watch?v=L1jjXGfxozc)
         
 ## Data Structures
-*MUST https://www.coursera.org/learn/algorithms-part1/home/welcome
 - ### Linked List Basics
     - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
     - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
@@ -115,7 +114,10 @@
         - [ ] heapify - create a heap from an array of elements, needed for heap_sort
         - [ ] heap_sort() - take an unsorted array and turn it into a sorted array in-place using a max heap
             - note: using a min heap instead would save operations, but double the space needed (cannot do in-place).
-
+## Courses
+   *MUST https://www.coursera.org/learn/algorithms-part1 (Free)
+   *MUST https://www.coursera.org/learn/algorithms-part2 (Free)
+    
 ## Sorting
 - [ ] Notes:
     - Implement sorts & know best case/worst case, average complexity of each:
