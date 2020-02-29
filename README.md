@@ -6,13 +6,22 @@
     - [ ] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
     - [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
     - [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
-
-## Algorithmic complexity / Big-O / Asymptotic analysis
-- [ ] [Hackerearch](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/)
-- [ ] [Understanding Asymptote](https://www.youtube.com/watch?v=0oDAlMwTrLo)
-- [ ] [Cheat sheet](http://bigocheatsheet.com/)
+ - ### Algorithmic complexity / Big-O / Asymptotic analysis
+    - [ ] [Hackerearch](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/)
+    - [ ] [Understanding Asymptote](https://www.youtube.com/watch?v=0oDAlMwTrLo)
+    - [ ] [Cheat sheet](http://bigocheatsheet.com/)
+ - ### Programming concepts
+    **Recursion:**
+    - [ ] Stanford lectures on recursion & backtracking:
+        - [ ] [Lecture 8 | Programming Abstractions (video)](https://www.youtube.com/watch?v=gl3emqCuueQ&list=PLFE6E58F856038C69&index=8)
+        - [ ] [Lecture 9 | Programming Abstractions (video)](https://www.youtube.com/watch?v=uFJhEPrbycQ&list=PLFE6E58F856038C69&index=9)
+        - [ ] [Lecture 10 | Programming Abstractions (video)](https://www.youtube.com/watch?v=NdF1QDTRkck&index=10&list=PLFE6E58F856038C69)
+        - [ ] [Lecture 11 | Programming Abstractions (video)](https://www.youtube.com/watch?v=p-gpaIGRCQI&list=PLFE6E58F856038C69&index=11)
+    - when it is appropriate to use it
+    - how is tail recursion better than not?
+        - [ ] [What Is Tail Recursion Why Is It So Bad?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
+        - [ ] [Tail Recursion (video)](https://www.youtube.com/watch?v=L1jjXGfxozc)
         
-
 ## Data Structures
 *MUST https://www.coursera.org/learn/algorithms-part1/home/welcome
 - ### Linked List Basics
@@ -77,10 +86,6 @@
             - inorder (DFS: left, self, right)
             - postorder (DFS: left, right, self)
             - preorder (DFS: self, left, right)
-
-- ### Binary search trees: BSTs
-    - [ ] 
-    - [ ] 
 
 - ### Heap / Priority Queue / Binary Heap
     - visualized as a tree, but is usually linear in storage (array, linked list)
@@ -244,17 +249,6 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] count connected components in a graph
         - [ ] list strongly connected components
         - [ ] check for bipartite graph
-
-## Recursion
-- [ ] Stanford lectures on recursion & backtracking:
-    - [ ] [Lecture 8 | Programming Abstractions (video)](https://www.youtube.com/watch?v=gl3emqCuueQ&list=PLFE6E58F856038C69&index=8)
-    - [ ] [Lecture 9 | Programming Abstractions (video)](https://www.youtube.com/watch?v=uFJhEPrbycQ&list=PLFE6E58F856038C69&index=9)
-    - [ ] [Lecture 10 | Programming Abstractions (video)](https://www.youtube.com/watch?v=NdF1QDTRkck&index=10&list=PLFE6E58F856038C69)
-    - [ ] [Lecture 11 | Programming Abstractions (video)](https://www.youtube.com/watch?v=p-gpaIGRCQI&list=PLFE6E58F856038C69&index=11)
-- when it is appropriate to use it
-- how is tail recursion better than not?
-    - [ ] [What Is Tail Recursion Why Is It So Bad?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
-    - [ ] [Tail Recursion (video)](https://www.youtube.com/watch?v=L1jjXGfxozc)
 
 ## Dynamic Programming
 - You probably won't see any dynamic programming problems in your interview, but it's worth being able to recognize a problem as being a candidate for dynamic programming.
