@@ -281,7 +281,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 ## Popular Algorithms
 - **String Matching**
     - Wildcard Matching:
-        - [Tushar Roy - Wilecard matching](https://www.youtube.com/watch?v=3ZDZ-N0EPV0)
+        - [Tushar Roy - Wilecard/Regex matching](https://www.youtube.com/watch?v=l3hda49XcDE)
     - Rabin-Karp (videos):
         - [Tushar Roy - Rabin-Karp](https://www.youtube.com/watch?v=H4VrKHVG5qI)
     - Knuth-Morris-Pratt (KMP):
